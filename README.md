@@ -13,5 +13,5 @@ to devices that do not use PoE support.
 ```
 Author
 ```
-SAINT-AMAND Matthieu, student.
+A raccoon student.
 ```
